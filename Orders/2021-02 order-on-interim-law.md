@@ -32,12 +32,12 @@ c) under exceptional circumstances, the Cabinet may postpone the decision and pu
 
 What this article states about the acceptance of Bills for Interim Laws shall also apply to their amendments and repeals.
 
-#### Art 3: Publication
+#### Article 3: Publication
 
 1) Upon being accepted, the Cabinet shall publish all Interim Laws on the official publication website of Liberland
 2) In addition, the Cabinet shall also publish the Interim Laws on the official Liberland GitHub in a public repository.
 
-#### Art 4: Termination
+#### Article 4: Termination
 
 All Interim Laws shall only have Legal Force until 
 a) repealed, 
@@ -46,6 +46,6 @@ c) until such a time the regularly operating Congress decides either upon their
 Adoption, upon which they are transformed into regular Laws as per the Constitution; or
 Rejection, upon which they lose their Legal Force.
 
-#### Art 5: Legal Force
+#### Article 5: Legal Force
 
 This Order shall apply immediately to all persons who are under Liberland’s jurisdiction who are able to read it.

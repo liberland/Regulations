@@ -43,9 +43,10 @@ IBIS shall record the sanction of 5 LLM in the account of a non-Citizen who
 ##### Section 1: Establishment of Border Crossing Points
 The IBIS personnel shall endeavor to create Permanent or Temporary Border Crossing Points in compliance with Chapter 1 Title 2 of the Border Law to perform their duties according to the Border Law in those locations.
 
-##### Section 2: Entry Requirements
-1. All visitors to Liberland shall be obligated to report to their nearest Border Crossing Point upon entry for the Identification, in accordance with Chapter 3 Title 3 of the Border Law. 
-2. Visitors must actively seek out the Border Crossing Point and initiate the identification procedure without delay.
+##### Section 2:  Entry and Exit Requirements
+1. All visitors to Liberland shall be required to present themselves at their nearest Border Crossing Point upon entry for Identification, in line with Chapter 3, Title 3 of the Border Law.
+2. Similarly, they must report their exit if their stay exceeds 24 hours, particularly noting the termination of their current settlement attempt.
+3. Visitors are obligated to proactively locate the Border Crossing Point and commence the identification procedure without undue delay.
 
 ##### Section 3: Alternative Measures
 1. In circumstances where the establishment of Border Crossing Points is rendered unfeasible due to factors beyond Government control, IBIS officers shall perform their duties according to the Border Law at any viable locations, and the visitors shall seek such locations out where they would otherwise visit a Border Crossing Point. 

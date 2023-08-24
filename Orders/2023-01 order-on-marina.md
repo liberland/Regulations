@@ -1,6 +1,6 @@
-## Order of the President of Liberland No. 1/2023: Establishment of the Liberland Marina
+# Order of the President of Liberland No. 1/2023: Establishment of the Liberland Marina
 
-### Preamble
+## Preamble
 I, Vit Jedlicka, the first President of Liberland, pursuant to § 11 of the Articles of the Provisional Government of the Republic of Liberland, hereby establish the Liberland Marina.
 
 ### Article 1: Establishment of the Liberland Marina

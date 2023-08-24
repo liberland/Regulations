@@ -1,11 +1,13 @@
 # Regulations
 
+Welcome to the online source of the consolidated regulations of the Free Republic of Liberland.
+
 Liberland's President and Cabinet are currently responsible for issuing orders and edicts, as per existing Liberland law. The current Cabinet can be found on [Liberland's website](https://liberland.org/en/about).
 
 ## Table of Contents
 
-- [Orders](/orders)
-- [Ministry of Interior](/Ministry%20of%20Interior)
+- [Presidential Orders](/orders)
+- [Edicts by Ministry of Interior](/Ministry%20of%20Interior)
 
 ## Description
 

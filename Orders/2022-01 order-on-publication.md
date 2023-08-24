@@ -6,12 +6,12 @@ I, Vit Jedlicka, the first President of Liberland, being so empowered by § 11 o
 
 ## The Order
 
-#### Art. 1: The publishing of Cabinet Decisions
+#### Article 1: The publishing of Cabinet Decisions
 
 1. During a Cabinet meeting, where the Cabinet shall decide upon a matter, and it is accepted or rejected, that act shall constitute a Decision of the Cabinet.
 2. The Minister of Justice shall be responsible for publishing these Decisions of the Cabinet in a regular manner on the official publication website of Liberland.
 
-#### Art. 2: The publishing form
+#### Article 2: The publishing form
 
 1. The Minister of Justice shall prepare the form which the Cabinet shall use as the regular manner of publishing their Decisions. In addition to Decisions, this form shall contain:
    
@@ -25,7 +25,7 @@ I, Vit Jedlicka, the first President of Liberland, being so empowered by § 11 o
    
 3. Any amendments to this form, its rewriting and reworking I with this rest by the Minister of Justice.
 
-#### Art. 3: Sensitive information
+#### Article 3: Sensitive information
 
 ##### Section 1: Exceptional Circumstances for Delayed Publication
 
@@ -41,6 +41,6 @@ Where the publication of a Decision shall be postponed, so shall the publication
 
 I leave in the hands of the Cabinet whether they should set for such Decisions and related information a placeholder, as in writing 'Classified', or whether they should refrain from publishing it without any such a mention.
 
-#### Art. 4: Legal force
+#### Article 4: Legal force
 
 This Order shall be immediately binding to the Cabinet and all its ministers.

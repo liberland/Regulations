@@ -6,7 +6,7 @@ Liberland's President and Cabinet are currently responsible for issuing orders a
 
 ## Table of Contents
 
-- [Presidential Orders](/orders)
+- [Presidential Orders](https://github.com/liberland/Regulations/tree/main/Orders)
 - [Edicts by Ministry of Interior](/Ministry%20of%20Interior)
 
 ## Description

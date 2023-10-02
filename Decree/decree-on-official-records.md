@@ -38,12 +38,19 @@ An Agent on Active Duty in Law Enforcement shall draft an Official Record whenev
 
 ##### Section 2: Optional documentation by all Agents
 Besides the mandatory situations above, any Agent on Active Duty, whether active in Law Enforcement or not, may also draft an Official Record of any situation they themselves witness or participate in if they suspect that doing so will advance:
+
    a. the cause of individual Liberty by protecting individual rights,
+   
    b. the rule of law in Liberland or elsewhere by providing participants and affected persons and entities greater legal certainty,
+   
    c. help uphold Liberland's position or good name internationally,
+   
    d. is expressly asked to do so by:
+   
        i. a Citizen, a resident of Liberland, or 
+       
        ii. foreign authority recognized by Liberland where this doesn't contradict the national interests of Liberland.
+       
 #### Article 3: Principles Governing Official Records
 1. **Truthfulness:** Agents responsible for creating Official Records shall accurately and comprehensively document the facts, ensuring that the record provides a truthful and complete representation of the events.
 2. **Clarity:** Official Records shall be drafted in a manner that allows for the easy identification and differentiation of significant facts from matters of lesser importance.
@@ -52,15 +59,20 @@ Besides the mandatory situations above, any Agent on Active Duty, whether active
 #### Article 4: Authentication and Verification of Official Records
 ##### Section 1: Authentication of Official Records
 An Official Record shall be authenticated by one or more of the following methods:
+
    a. Electronic submission containing a verified electronic signature of the issuing Agent.
+   
    b. Signature of the issuing Agent; or
+   
    c. Official stamp of the issuing Agent’s Agency.
+   
 ##### Section 2: Storage and Format
 1. Official Records shall be maintained in electronic format and stored in a manner comparable to state-of-the-art in data storage security.
 2. Upon request, authentic written copies of Official Records may be issued. Such copies shall bear the official stamp of the Agency to which the issuing Agent belongs.
 ##### Section 3: Verification Procedures
 1. Verification of an Official Record shall be conducted by comparing the copy in question with its electronic counterpart.
 2. In instances where electronic comparison is not feasible, verification shall be conducted using a stamped paper version of the Official Record.
+
 #### Article 5: Reasoned Objection to Official Records
 ##### Section 1: Right to file Reasoned Objection
 1. An individual whose actions or circumstances are documented in an Official Record or who is directly or indirectly but significantly affected by the conclusions derived from such an Official Record shall have the right to file a reasoned objection against the Record.

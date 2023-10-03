@@ -30,8 +30,8 @@ Order
 As the Marina also serves as an entry point into Liberland, the land located at the coordinates of the Border Zone around the Border Crossing Point Liberland Marina Mateos shall be reserved for its establishment and construction of its infrastructure, including the placement of service communications and structures.
 
 ##### Section 2: Responsibilities of the Provisional Government
-The Provisional Government shall ensure the proper delimitation of this area and its demarcation.
-The Provisional Government shall also oversee other preparations for the construction.
+1. The Provisional Government shall ensure the proper delimitation of this area and its demarcation.
+2. The Provisional Government shall also oversee other preparations for the construction.
 
 #### Article 3: Marina Design Contest
 1. To secure an architectural design befitting this momentous project, I hereby order the issuance of a call for designs in the form of a publicly available contest. I shall specify the rules of the contest in a subsequent communication.

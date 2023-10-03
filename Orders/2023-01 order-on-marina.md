@@ -111,6 +111,8 @@ The Authority shall have the power to enforce environmental regulations, includi
 ### Title 4: Final Provision
 
 #### Article 15: Legal Force
-1. This Order shall be immediately binding upon the Cabinet and all its ministers.
-2. The Order shall remain in force until an Internal Navigation Law is enacted, whether as an interim or a regular law.
-3. The institutions established by this Order shall remain in existence after the Order loses its legal force, and the Cabinet shall ensure their incorporation into law without necessary delay.
+1. This Order shall be immediately binding upon the Cabinet and its members, as well as upon everyone found within Liberland’s jurisdiction.
+2. The institute and institutions established by this Order shall remain in existence until their replacement, in some form, by institutes and institutions provided by law.
+3. The Cabinet shall ensure the incorporation of said institutes and institutions into law without necessary delay.
+4. This Order shall cease having a legal effect upon the last institute or institution being established in law, whether it is interim or regular.
+

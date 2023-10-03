@@ -113,3 +113,4 @@ The Authority shall have the power to enforce environmental regulations, includi
 #### Article 15: Legal Force
 1. This Order shall be immediately binding upon the Cabinet and all its ministers.
 2. The Order shall remain in force until an Internal Navigation Law is enacted, whether as an interim or a regular law.
+3. The institutions established by this Order shall remain in existence after the Order loses its legal force, and the Cabinet shall ensure their incorporation into law without necessary delay.
